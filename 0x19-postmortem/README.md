@@ -1,6 +1,7 @@
 https://docs.google.com/document/d/15IInHmGGWvVpC2zm6hogDFHPwfvdzq2lX3Y3otCGeNM/edit?usp=sharing
 
 Please find the post mortem document there
+
 https://media.makeameme.org/created/post-mortem-meetings.jpg
 
 Education Connect Postmortem. 
