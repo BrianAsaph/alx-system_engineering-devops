@@ -1,1 +1,0 @@
-all about servers
